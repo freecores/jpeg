@@ -1,0 +1,6 @@
+# Output products list for <buffer_comp_chrom>
+buffer_comp_chrom.edn
+buffer_comp_chrom.vho
+buffer_comp_chrom.vhd
+buffer_comp_chrom.xco
+buffer_comp_chrom.xcp

@@ -1,0 +1,40 @@
+# Xilinx CORE Generator 6.1i
+# Username = Administrador
+# COREGenPath = C:\Winapp\Xilinx\coregen
+# ProjectPath = E:\VHDL\PFCarrera\FPGA\Coregen
+# ExpandedProjectPath = E:\VHDL\PFCarrera\FPGA\Coregen
+# OverwriteFiles = True
+# Core name: DA_2D_DCT
+# Number of Primitives in design: 9075
+# Number of CLBs used in design cannot be determined when there is no RPMed logic
+# Number of Slices used in design cannot be determined when there is no RPMed logic
+# Number of LUT sites used in design: 3021
+# Number of LUTs used in design: 2969
+# Number of REG used in design: 3452
+# Number of SRL16s used in design: 52
+# Number of Distributed RAM primitives used in design: 0
+# Number of Block Memories used in design: 1
+# Number of Dedicated Multipliers used in design: 0
+# Number of HU_SETs used: 0
+# 
+SET BusFormat = BusFormatAngleBracketNotRipped
+SET SimulationOutputProducts = VHDL
+SET XilinxFamily = Virtex2
+SET OutputOption = DesignFlow
+SET DesignFlow = VHDL
+SET FlowVendor = Other
+SET FormalVerification = None
+SELECT 2-D_Discrete_Cosine_Transform Virtex2 Xilinx,_Inc. 2.0
+CSET input_data_width = 8
+CSET precision_control = Round
+CSET result_width = 19
+CSET enable_symmetry = true
+CSET operation = Forward_DCT
+CSET internal_width = 19
+CSET input_data_type = Signed
+CSET coefficient_width = 24
+CSET has_reset = false
+CSET component_name = dct2d
+CSET transpose_memory = Block
+CSET clock_cycles_per_input_sample = 9
+GENERATE

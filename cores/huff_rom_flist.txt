@@ -1,0 +1,7 @@
+# Output products list for <huff_rom>
+huff_rom.mif
+huff_rom.edn
+huff_rom.vho
+huff_rom.vhd
+huff_rom.xco
+huff_rom.xcp
