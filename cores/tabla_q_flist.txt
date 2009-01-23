@@ -1,7 +1,0 @@
-# Output products list for <tabla_q>
-tabla_q.mif
-tabla_q.edn
-tabla_q.vho
-tabla_q.vhd
-tabla_q.xco
-tabla_q.xcp

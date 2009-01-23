@@ -1,7 +1,0 @@
-# Output products list for <q_rom>
-q_rom.mif
-q_rom.edn
-q_rom.vho
-q_rom.vhd
-q_rom.xco
-q_rom.xcp

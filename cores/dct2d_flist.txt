@@ -1,6 +1,0 @@
-# Output products list for <dct2d>
-dct2d.edn
-dct2d.vho
-dct2d.vhd
-dct2d.xco
-dct2d.xcp

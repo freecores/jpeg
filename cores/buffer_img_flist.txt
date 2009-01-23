@@ -1,7 +1,0 @@
-# Output products list for <buffer_img>
-buffer_img.mif
-buffer_img.edn
-buffer_img.vho
-buffer_img.vhd
-buffer_img.xco
-buffer_img.xcp

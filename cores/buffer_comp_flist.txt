@@ -1,6 +1,0 @@
-# Output products list for <buffer_comp>
-buffer_comp.edn
-buffer_comp.vho
-buffer_comp.vhd
-buffer_comp.xco
-buffer_comp.xcp
